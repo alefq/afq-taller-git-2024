@@ -7,4 +7,7 @@ El repositorio de cada alumno es un **proyecto Spring Boot para API REST** gener
 
 **[docs/TALLER_GIT.md](docs/TALLER_GIT.md)**
 
+Enunciado vigente: [docs/ejercicio-poo-06-revision-paquetes-constructores-2026-09-30.md](docs/ejercicio-poo-06-revision-paquetes-constructores-2026-09-30.md)  
+Rúbrica: [docs/RUBRICA-ejercicios-lp3-2026.md](docs/RUBRICA-ejercicios-lp3-2026.md)
+
 Licencia: [Apache License 2.0](LICENSE)
