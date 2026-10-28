@@ -3,7 +3,7 @@
 **Slug:** `rubrica-ejercicios-lp3-2026`  
 **Vigencia:** segundo semestre de 2026, a partir del 30 de septiembre  
 **Uso:** corrección en sala y calificación de los ejercicios de programación orientada a objetos. Si un enunciado trae otra escala, se usa esa.  
-**Enunciado vigente:** [ejercicio-poo-06-revision-paquetes-constructores-2026-09-30.md](ejercicio-poo-06-revision-paquetes-constructores-2026-09-30.md)
+**Enunciados:** [ejercicio-poo-06](ejercicio-poo-06-revision-paquetes-constructores-2026-09-30.md) (paquetes, constructores, GET) · [ejercicio-poo-08](ejercicio-poo-08-crud-h2-insomnia-2026-10-28.md) (CRUD, H2, Insomnia)
 
 Es la misma rúbrica para todos. El enunciado dice el dominio —Minecraft o Counter-Strike 2, por ejemplo— y qué servicios REST hay que ver. Los ocho criterios no cambian.
 
@@ -58,7 +58,7 @@ Se construye una nueva instancia con **constructores simples y sobrecargados**. 
 
 ## 6. Comportamiento observable (0–3)
 
-Se ve funcionar lo que pide el enunciado: una demostración, una prueba o, cuando hay API REST, el `IndexController`, la construcción con parámetros de la URL y el JSON (*JavaScript Object Notation*) de las clases hijas. La capa de entrada deja las reglas en el dominio.
+Se ve funcionar lo que pide el enunciado: una demostración, una prueba o, cuando hay API REST, el `IndexController` y el JSON de las clases hijas. Si el enunciado pide CRUD y H2, se recorre crear, leer, actualizar y borrar con la colección de Insomnia; un `GET` posterior confirma que el dato persistió. La capa de entrada deja las reglas en el dominio.
 
 ## 7. Git (0–3)
 
