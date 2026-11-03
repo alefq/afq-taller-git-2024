@@ -50,7 +50,7 @@ El estado cambia por mensajes y constructores, no por asignación directa desde 
 
 ## 4. Herencia, clases hijas y sobreescritura (0–3)
 
-Hay una relación «es un». Si el enunciado pide un método abstracto, la clase base lo declara y **dos clases hijas** independientes lo **sobreescriben**: misma firma, implementación propia. Quien usa el modelo habla con el tipo padre; el comportamiento queda en las clases hijas.
+Hay una relación «es un». Si el enunciado pide un método abstracto, la clase base lo declara y **dos clases hijas** independientes lo **sobreescriben**: misma firma, implementación propia. Quien usa el modelo habla con el tipo padre; el comportamiento queda en las clases hijas. Si el enunciado pide excepciones, hay una clase base y **dos hijas** con nombres de regla; un *handler* atiende cada tipo.
 
 ## 5. Constructores y sobrecarga (0–3)
 
@@ -58,7 +58,7 @@ Se construye una nueva instancia con **constructores simples y sobrecargados**. 
 
 ## 6. Comportamiento observable (0–3)
 
-Se ve funcionar lo que pide el enunciado: una demostración, una prueba o, cuando hay API REST, el `IndexController` y el JSON de las clases hijas. Si el enunciado pide CRUD y H2, se recorre crear, leer, actualizar y borrar con la colección de Insomnia; un `GET` posterior confirma que el dato persistió. La capa de entrada deja las reglas en el dominio.
+Se ve funcionar lo que pide el enunciado: una demostración, una prueba o, cuando hay API REST, el `IndexController` y el JSON de las clases hijas. Si el enunciado pide CRUD y H2, se recorre crear, leer, actualizar y borrar con la colección de Insomnia; un `GET` posterior confirma que el dato persistió. Si pide simulación y excepciones, se ven las dos reglas del juego, el estado después de simular, y un *handler* distinto por tipo de excepción. La capa de entrada deja las reglas en el dominio.
 
 ## 7. Git (0–3)
 
