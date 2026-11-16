@@ -3,9 +3,9 @@
 **Slug:** `rubrica-ejercicios-lp3-2026`  
 **Vigencia:** segundo semestre de 2026, a partir del 30 de septiembre  
 **Uso:** corrección en sala y calificación de los ejercicios de programación orientada a objetos. Si un enunciado trae otra escala, se usa esa.  
-**Enunciados:** [ejercicio-poo-06](ejercicio-poo-06-revision-paquetes-constructores-2026-09-30.md) (paquetes, constructores, GET) · [ejercicio-poo-08](ejercicio-poo-08-crud-h2-insomnia-2026-10-28.md) (CRUD, H2, Insomnia)
+**Enunciados:** [ejercicio-poo-06](ejercicio-poo-06-revision-paquetes-constructores-2026-09-30.md) (paquetes, constructores, GET) · [ejercicio-poo-08](ejercicio-poo-08-crud-h2-insomnia-2026-10-28.md) (CRUD, H2, Insomnia) · [ejercicio-poo-09](ejercicio-poo-09-apis-cruzadas-2026-11-16.md) (APIs cruzadas, 15 puntos; [grupos](ejercicio-poo-09-grupos-2026-11-16.md), [ejemplo UNO](ejercicio-poo-09-ejemplo-uno-2026-11-16.md))
 
-Es la misma rúbrica para todos. El enunciado dice el dominio —Minecraft o Counter-Strike 2, por ejemplo— y qué servicios REST hay que ver. Los ocho criterios no cambian.
+Es la misma rúbrica para todos. El enunciado dice el dominio (Minecraft o Counter-Strike 2, por ejemplo) y qué servicios REST hay que ver. Los ocho criterios no cambian, salvo que el enunciado traiga otra escala (POO-09: 15 puntos).
 
 **Escala por criterio:** 0 = no se ve · 1 = a medias · 2 = cumple · 3 = sólido (se puede explicar el diseño y el diseño aguanta un cambio).
 
